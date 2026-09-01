@@ -41,8 +41,8 @@ This project uses **YOLO + ByteTrack + OpenCV** to detect vehicles, track them, 
 ### 🚀 Run it
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/traffic-speed-estimation.git
-cd traffic-speed-estimation
+https://github.com/AhmedSabry345/smart_road
+cd smart_road
 
 pip install -r requirements.txt
 python main.py
