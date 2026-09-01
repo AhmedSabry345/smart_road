@@ -7,7 +7,7 @@ from collections import Counter, deque
 from smart_road.tracker import YOLODetector
 from smart_road.videoreader import VideoReader
 
-# Speed limit enforcement threshold (in km/h)
+
 SPEED_LIMIT = 60
 
 # 1. Calibrated Y-axis lines covering the visible lower road section
