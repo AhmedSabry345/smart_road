@@ -1,4 +1,6 @@
-opencv-python
 numpy
-ultralytics
+opencv-python
 torch
+torchvision
+ultralytics
+PyYAML
